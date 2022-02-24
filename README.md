@@ -30,7 +30,23 @@ The best two are XGB and LightGBM with AUCScore 0.995 and 0.996 after tune it
 <img src=images/hourpercentages.png height=250>    <img src=images/hoursfraud.png height=250>
 
 ### Imbalance of Fraud
+<img src=images/fraudgenderpercent.png width=600>
+
+### Resampling Imbalance Data
+<img src=images/smote.png width=600>
+
+### ROCAUC Scores All Models
+<img src=images/totalauc.png width=500>
+
+### ROCAUC Scores XGB and LightGBM
+<img src=images/tuneauc.png width=500>
+
+## The Best One Amongs All is LightGBM with Tuning
+
+### LGBM Confusion Matrix Tune and Non-Tune
+<img src=images/lighttune.png width=400>     <img src=images/lightnontune.png width=400>
+
+### LGBM Test Results
+<img src=images/LGBMTune.png width=400>     <img src=images/LGBMNonTune.png width=400>
 
 
-### LGBM
-<img src=images/LGBMTune.png width=600>
