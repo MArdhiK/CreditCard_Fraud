@@ -11,6 +11,8 @@ I just take the test data and it already consist of 555719 rows and 22 columns a
 
 The best two are XGB and LightGBM with AUCScore 0.995 and 0.996 after tune it
 
+----------------------------------------------------------------------------------
+
 ## Here's glimpse on my notebook
 
 
