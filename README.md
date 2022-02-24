@@ -15,4 +15,7 @@ The best two are XGB and LightGBM with AUCScore 0.995 and 0.996 after tune it
 
 ## Here's glimpse on my notebook
 
+<img src=images/agegroup.png width=500>
+
+
 
